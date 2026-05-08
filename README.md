@@ -8,7 +8,7 @@ Bu proje, klasik Taboo oyununun Python terminali üzerinde çalışan bir versiy
 * **Kullanıcı Dostu Arayüz:** Terminal üzerinden basit ve anlaşılır komutlarla oynanabilir.
 
 ## 🛠️ Kullanılan Teknolojiler
-* **Dil:** Python 3.x
+* **Dil:** Python 3.13
 * **Mantık:** Listeler, Sözlükler (Dictionaries) ve Random modülü.
 
 ## 🚀 Nasıl Çalıştırılır?
@@ -18,3 +18,6 @@ Bu proje, klasik Taboo oyununun Python terminali üzerinde çalışan bir versiy
 4. Aşağıdaki komutu çalıştırın:
    ```bash
    python taboo.py
+
+   <img width="745" height="777" alt="image" src="https://github.com/user-attachments/assets/4ed05b01-bc69-4eea-a5ce-45bbab4e8c3e" />
+
