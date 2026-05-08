@@ -19,5 +19,4 @@ Bu proje, klasik Taboo oyununun Python terminali üzerinde çalışan bir versiy
    ```bash
    python taboo.py
 
-   <img width="745" height="777" alt="image" src="https://github.com/user-attachments/assets/4ed05b01-bc69-4eea-a5ce-45bbab4e8c3e" />
 
